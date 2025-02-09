@@ -19,8 +19,7 @@ Welcome to the *Snake Game* built in *C++*! 🎮 This is a classic snake game wi
 - ✅ *Restart Option* – Press *'R'* to restart the game after losing.  
 - ✅ *Dynamic Food Placement* – The food appears randomly on the grid.  
 - ✅ *Colored UI* – Snake 🟢, Food 🟡, and Borders 🔴 for better visuals.  
-- ✅ *Adjustable Grid Size* – Set custom grid width and height before playing.  
-- ✅ *Game Speed Control* – The snake moves at a fixed but adjustable speed.  
+- ✅ *Adjustable Grid Size* – Set custom grid width and height before playing.   
 
 ## 🕹 Controls
 
