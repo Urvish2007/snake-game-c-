@@ -53,9 +53,7 @@ Welcome to the *Snake Game* built in *C++*! 🎮 This is a classic snake game wi
    
 
 ## 🛠 Requirements
-
-- *C++ Compiler* (e.g., MinGW for Windows, g++ for Linux/macOS)  
-- Windows OS (for conio.h & system("cls"), modify for Linux/Mac)  
+- Windows OS 
 
 ## 📊 Data Structure Analysis
 
@@ -88,12 +86,5 @@ The game uses *vector<pair<int, int>>* to store the snake’s body segments. Thi
 ### 6️⃣ Run() 🚀
 - Runs the game loop until the player quits.  
 - Displays the *Game Over* message and *restart option*.  
-
-## 🎨 Future Enhancements
-
-- 🔹 *Pause/Resume feature* ⏸ ▶  
-- 🔹 *Sound effects* 🎵  
-- 🔹 *Custom difficulty levels* 🎧  
-- 🔹 *Multiplayer mode* 🎮  
 
 Enjoy the game & happy coding! 🚀🐍
