@@ -1,6 +1,6 @@
 # 🐍 Snake Game in C++
 
-## 🏆 Group: *Teen Tigda Kam Bigda!*
+## 🏆 Group: *3 Tigda Kaam bigda!*
 
 ### 👥 Team Members:
 - *Urvish Babariya* - 202401020
